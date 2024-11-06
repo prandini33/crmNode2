@@ -1,0 +1,30 @@
+/* src/styles/Header.css */
+
+.header {
+  width: calc(100% - 200px); /* Compensa a largura da sidebar */
+  margin-left: 200px;
+  position: fixed;
+  top: 0;
+  z-index: 1020;
+}
+
+.navbar {
+  padding: 10px 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra suave */
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #333;
+}
+
+.navbar-text {
+  font-size: 1rem;
+  color: #555;
+  margin-right: 10px;
+}
+
+.logout-button {
+  font-size: 0.9rem;
+}
