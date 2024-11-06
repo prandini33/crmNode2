@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/crmNode2/static/css/main.74c4f747.chunk.css",
+    "main.js": "/crmNode2/static/js/main.ae6f046c.chunk.js",
+    "main.js.map": "/crmNode2/static/js/main.ae6f046c.chunk.js.map",
+    "runtime~main.js": "/crmNode2/static/js/runtime~main.e50c1d03.js",
+    "runtime~main.js.map": "/crmNode2/static/js/runtime~main.e50c1d03.js.map",
+    "static/css/2.0a38e16e.chunk.css": "/crmNode2/static/css/2.0a38e16e.chunk.css",
+    "static/js/2.bab90fb5.chunk.js": "/crmNode2/static/js/2.bab90fb5.chunk.js",
+    "static/js/2.bab90fb5.chunk.js.map": "/crmNode2/static/js/2.bab90fb5.chunk.js.map",
+    "static/js/3.df7899f0.chunk.js": "/crmNode2/static/js/3.df7899f0.chunk.js",
+    "static/js/3.df7899f0.chunk.js.map": "/crmNode2/static/js/3.df7899f0.chunk.js.map",
+    "index.html": "/crmNode2/index.html",
+    "precache-manifest.8915309d3a3389e1e6d560e0fc7da948.js": "/crmNode2/precache-manifest.8915309d3a3389e1e6d560e0fc7da948.js",
+    "service-worker.js": "/crmNode2/service-worker.js",
+    "static/css/2.0a38e16e.chunk.css.map": "/crmNode2/static/css/2.0a38e16e.chunk.css.map",
+    "static/css/main.74c4f747.chunk.css.map": "/crmNode2/static/css/main.74c4f747.chunk.css.map",
+    "static/media/all.min.css": "/crmNode2/static/media/fa-v4compatibility.7c428138.woff2"
+  }
+}
