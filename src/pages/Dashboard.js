@@ -32,7 +32,7 @@ function Dashboard() {
               <div className="card shadow-sm">
                 <div className="card-body">
                   <h5 className="card-title">Widget 3</h5>
-                  <p className="card-text">Conteúdo do widget 3.</p>
+                  <p className="card-text">Conteúdo do widget 3!</p>
                 </div>
               </div>
             </div>

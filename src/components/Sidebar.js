@@ -10,7 +10,7 @@ function Sidebar() {
       <h2 className="text-center mb-4">Menu</h2>
       <Nav className="flex-column">
         <Nav.Item>
-          <Nav.Link as={Link} to="/dashboard" className="text-white">Dashboard</Nav.Link>
+          <Nav.Link as={Link} to="/dashboard" className="text-white">Dashboard!</Nav.Link>
         </Nav.Item>
         <Nav.Item>
           <Nav.Link as={Link} to="/clientes" className="text-white">Clientes</Nav.Link>
